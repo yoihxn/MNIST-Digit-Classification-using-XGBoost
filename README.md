@@ -4,4 +4,5 @@
 
 <p>Trees used: 100</p>
 
-<p>Dataset: **[MNIST](https://www.openml.org/search?type=data&sort=runs&id=554)**</p>
+Dataset: **[MNIST](https://www.openml.org/search?type=data&sort=runs&id=554)**
+
